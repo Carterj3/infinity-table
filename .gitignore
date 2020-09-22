@@ -1,0 +1,9 @@
+# Ignore generated code
+/target
+**/*.rs.bk
+Cargo.lock
+
+# Ignore configuration
+.vscode/
+.DS_Store
+ 
